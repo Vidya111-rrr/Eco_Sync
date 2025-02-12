@@ -18,6 +18,10 @@ install if any dependency error
 npm i ajv ajv-keywords --legacy-peer-deps
 ```
 
+```
+npm run build
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
