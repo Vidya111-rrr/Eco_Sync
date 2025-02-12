@@ -5,7 +5,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 bash 
 ```
-git clone 
+git clone https://github.com/Vidya111-rrr/Eco_Sync.git
+```
+
+bash
+```
+npm install --legacy-peer-deps
+```
+
+bash 
+```
+npm i ajv ajv-keywords --legacy-peer-deps
 ```
 
 ## Available Scripts
