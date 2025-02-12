@@ -3,17 +3,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 
-bash 
+clone repository 
 ```
 git clone https://github.com/Vidya111-rrr/Eco_Sync.git
 ```
 
-bash
+install dependency 
 ```
 npm install --legacy-peer-deps
 ```
 
-bash 
+install if any dependency error 
 ```
 npm i ajv ajv-keywords --legacy-peer-deps
 ```
