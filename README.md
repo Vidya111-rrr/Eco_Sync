@@ -17,9 +17,14 @@ install if any dependency error
 ```
 npm i ajv ajv-keywords --legacy-peer-deps
 ```
-
+re-build 
 ```
 npm run build
+```
+
+start 
+```
+npm start
 ```
 
 ## Available Scripts
